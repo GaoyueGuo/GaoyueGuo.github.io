@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Pierre Laforgue
+
+
+~~~
+{}{img_left}{subfiles/me.jpg}{alt text}{130px}
+
+/PhD Candidate in Machine Learning at Télécom Paris/\n\n
+*Contact*\n
+Email: name \[dot\] last_name \[at\] telecom-paris.fr\n
+Other Links: [\/https://fr.linkedin.com/in/pierre-laforgue-201050185 LinkedIn], [\/https://scholar.google.fr/citations?hl=fr&user=OY1p2foAAAAJ Google Scholar], [\/https://github.com/plaforgue Github]
+
+~~~
+
+
+== About me
+I am a third year PhD Student in Machine Learning at Télécom Paris, under the supervision of [\/https://perso.telecom-paristech.fr/fdalche/ Florence d'Alché-Buc] and [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].
+
+Previously, I jointly graduated from ENSAE Paris and [\/https://www.di.ens.fr/~aspremon/MASH/index.html Master M2 MASH] at ENS Cachan and Université Paris-Dauphine.\n
+You can find more about my background on my [\/https://fr.linkedin.com/in/pierre-laforgue-201050185 LinkedIn] or in my [\/subfiles/resume.pdf resume].
+
+
+== Research Interests
+My research interests are broadly Machine Learning and Statistical Learning Theory, and include more precisely:
+- Kernel Methods, Operator-Valued Kernels, Vector-Valued RKHSs, Structured Prediction
+- Robust Learning, Median-of-Means Estimators, Debiasing Methods
+- Representation Learning, Autoencoders, Chemoinformatics
+
+My list of publications is available [research.html here].

@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{teaching.html}, nofooter
+== Courses Taught
+
+During my PhD, I have been a *Teaching Assistant* in Télécom Paris for the following courses:
+- Applied Statistics
+- Statistics: Linear Models
+- Applied Statistical Learning
+- Advanced Machine Learning
+- Statistical Learning and Data Mining\n\n
+
+I was also a *scientific advisor* for Data Science projects conducted jointly with *French companies*:
+- Predictive maintenance on helicopters~~(Safran 2017)
+- Multi-dimensional time series visualization~~(Safran 2018)
+- Energy saving in a silicon furnace~~(Bearing Point \& Ferroglobe 2019)

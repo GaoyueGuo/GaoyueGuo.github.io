@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Publications and Preprints
+
+- *On the Dualization of Operator-Valued Kernel Machines* (Under review)\n
+  +Pierre Laforgue+\*, Alex Lambert\*, Luc Brogat-Motte, Florence d'Alché-Buc (\*equal contribution)~~\[[\/https://arxiv.org/abs/1910.04621 arxiv]\]
+
+- *Statistical Learning from Biased Training Samples* (Under review)\n
+  +Pierre Laforgue+, Stephan Clémençon~~\[[\/https://arxiv.org/abs/1906.12304 arxiv], [\/https://github.com/plaforgue/db_learn code]\]
+
+
+- *On Medians-of-(Randomized)-Pairwise-Means* (ICML 2019)\n
+  +Pierre Laforgue+, Stephan Clémençon, Patrice Bertail~~\[[\/subfiles/morm_paper.pdf paper, [\/subfiles/morm_poster.pdf poster], [\/https://github.com/plaforgue/morm code]]\]
+
+
+- *Autoencoding any Data through Kernel Autoencoders* (AISTATS 2019)\n
+  +Pierre Laforgue+, Stephan Clémençon, Florence d'Alché-Buc~~\[[\/subfiles/kae_paper.pdf paper, [\/subfiles/kae_poster.pdf poster], [\/https://github.com/plaforgue/kae code]]\]
+
+
+
+
+
+= Oral Presentations
+Here you can find slides I have used during some of my oral presentations.
+
+
+*On the Dualization of Operator-Valued Kernel Machines*
+- Séminaire [\/https://palaisien.herokuapp.com/ /Le Palaisien/], Palaiseau, France, Dec. 2019.~~\[[\/subfiles/palaisien.pdf slides]\]
+
+
+*On Medians-of-(Randomized)-Pairwise-Means*
+- International Conference on Machine Learning (ICML), Long Beach, CA, Jun. 2019.~~\[[\/subfiles/icml.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Toulouse, France, Jul. 2019.~~\[[\/subfiles/cap_19.pdf slides]\]
+- Journée de la Chaire /DS & AI for Digitalized Industry & Services/, Télécom Paris, France, Sep. 2019.~~\[[\/subfiles/chaire_19.pdf slides]\]
+
+
+*Autoencoding any Data through Kernel Autoencoders*
+- Journées De Statistique (JDS), Saclay, France, May 2018.~~\[[\/subfiles/jds.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Rouen, France, Jun. 2018.~~\[[\/subfiles/cap_18.pdf slides]\]
+- European Network for Business and Industrial Statistics (ENBIS), Nancy, France, Sep. 2018.~~\[[\/subfiles/enbis.pdf slides]\]
+- Invited talk in Pr. Iwata Hiroyoshi's lab, Tōdai University of Tokyo, Japan, Apr. 2019.~~\[[\/subfiles/todai.pdf slides]\]
+
+
+
+
+
+= Reviewing
+I have been an official reviewer for the following conferences:
+- NeurIPS 2019 (top reviewer), ICML 2020
